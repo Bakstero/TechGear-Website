@@ -1,4 +1,5 @@
 # TechGear-Website
+Live (Netlify) - https://techwear.netlify.app
 
 ## Table of contents
 * [Technologies](#technologies)
